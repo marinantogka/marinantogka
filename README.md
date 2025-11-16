@@ -7,33 +7,70 @@
 
 ---
 
-⚙️ Tech Stack
-<p> <!-- Languages --> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" title="C#" /></a> <a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java" /></a> <!-- Frameworks -->
+### ⚙️ Tech Stack & Tools I Use
+<div style="display: flex; flex-wrap: wrap; gap: 30px;">
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" /></a>
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg" width="45" title="EF Core" /></a>
+  <!-- Languages -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://learn.microsoft.com/dotnet/csharp/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" title="C#" />
+    </a>
+    <a href="https://www.java.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" title="Java" />
+    </a>
+  </div>
 
-<!-- Cloud & DevOps -->
+  <!-- Frameworks -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://dotnet.microsoft.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" title=".NET" />
+    </a>
+    <a href="https://learn.microsoft.com/en-us/ef/core/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/entityframeworkcore/entityframeworkcore-original.svg" width="45" title="EF Core" />
+    </a>
+  </div>
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" title="Azure" /></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" title="Docker" /></a>
+  <!-- Cloud & DevOps -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://azure.microsoft.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" title="Azure" />
+    </a>
+    <a href="https://www.docker.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" title="Docker" />
+    </a>
+  </div>
 
-<!-- Tools -->
+  <!-- Tools -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://www.postman.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" title="Postman" />
+    </a>
+    <a href="https://git-scm.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git" />
+    </a>
+    <a href="https://www.oracle.com/database/sqldeveloper/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="45" title="SQL Developer" />
+    </a>
+  </div>
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="45" title="Postman" /></a>
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" title="Git" /></a>
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" width="45" title="SQL Developer" /></a>
+  <!-- IDEs -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://code.visualstudio.com/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" title="VS Code" />
+    </a>
+    <a href="https://visualstudio.microsoft.com/">
+      <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="45" title="Visual Studio" />
+    </a>
+  </div>
 
-<!-- IDEs -->
+  <!-- CMS -->
+  <div style="display: flex; align-items: center; gap: 10px;">
+    <a href="https://wordpress.org/">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" title="WordPress" />
+    </a>
+  </div>
 
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" title="VS Code" /></a>
-<a><img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-original.svg" width="45" title="Visual Studio" /></a>
-
-<!-- CMS -->
-
-<a><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" title="WordPress" /></a>
-
-</p>
+</div>
 
 
 
