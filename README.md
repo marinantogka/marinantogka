@@ -12,7 +12,7 @@
 ---
 
 ### 🎓 Education
-**B.Sc. in Computer Science** — [Athens University of Economics and Business](https://www.aueb.gr/en)
+[**B.Sc. in Computer Science**](https://dept.aueb.gr/en/cs) — [Athens University of Economics and Business](https://www.aueb.gr/en)
 
 ---
 
