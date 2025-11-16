@@ -9,6 +9,8 @@
 ### ⚙️ Tech Stack
 **C#**, **.NET 9**, **EF Core**, **Web API**, **Azure**, **Docker**, **Git**, **SQL**, **Java**, **Python**, **WordPress**, **SEO**
 
+<p> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="45" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" width="45" /> </p>
+
 ---
 
 ### 🎓 Education
