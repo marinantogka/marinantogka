@@ -19,8 +19,8 @@
 
 <a href="https://azure.microsoft.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="45" title="Azure" /></a> &nbsp;
 <a href="https://learn.microsoft.com/en-us/powershell/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="45" title="PowerShell" /></a> &nbsp;
-<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/"><img src="https://cdn.simpleicons.org/microsoftsharepoint/0078D4" width="45" title="SharePoint Online" /></a> &nbsp;
-<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate"><img src="https://cdn.simpleicons.org/microsoftpowerautomate/0066FF" width="45" title="Power Automate" /></a>
+<a href="https://www.microsoft.com/en-us/microsoft-365/sharepoint/"><img src="https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=microsoftsharepoint&logoColor=white" height="35" title="SharePoint Online" /></a> &nbsp;
+<a href="https://www.microsoft.com/en-us/power-platform/products/power-automate"><img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white" height="35" title="Power Automate" /></a>
 
 **Data**
 
